@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial BBB</string>
+    <string name="msg_Participanete">Participante</string>
+    <string name="msg_Porcentual_Participante">76%</string>
+    <string name="msg_Nenhuma_votacao_aberta">Nenhuma votação aberta</string>
+    <string name="msg_Carregando">Carregando</string>
+    <string name="msg_Atualizar">Atualizar</string>
+    <string name="msg_Ops_Erro_ao_buscar_os_dados_Tente_mais_tarde">Ops. Erro ao buscar os dados. Tente mais tarde.</string>
+</resources>
